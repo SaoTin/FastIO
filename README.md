@@ -1,2 +1,2 @@
-# FastIO
+# IOput
 A modern IO library
